@@ -1,0 +1,40 @@
+#hed { /* .hed - для класів, #hed - для ід */
+    height: 100%; /* Висота */
+    width: 85%;; /* Ширина */
+    background: deepskyblue; /* Колір фона */
+    padding: 0px; /* Поле навколо текста */
+    outline: 1px solid black; /* рамка */
+    position: absolute;
+    left: 15%;
+    top: 0%;
+}
+#divn {
+    height: 100%; /* Висота */
+    width: 15%;; /* Ширина */
+    background: beige; /* Колір фона */
+    padding: 0px; /* Поле навколо текста */
+    outline: 1px solid black;
+    position: fixed;
+    left: 0%;
+    top: 0%;
+}
+#osnova {
+    height: 100%; /* Висота */
+    width: 85%;; /* Ширина */
+    background: greenyellow; /* Колір фона */
+    padding: 0px; /* Поле навколо текста */
+    outline: 1px solid black;
+    position: absolute;
+    left: 15%;
+    top: 100%;
+}
+#foot {
+    height: 100%; /* Висота */
+    width: 85%;; /* Ширина */
+    background: palegoldenrod; /* Колір фона */
+    padding: 0px; /* Поле навколо текста */
+    outline: 1px solid black;
+    position: absolute;
+    left: 15%;
+    top: 200%;
+}
